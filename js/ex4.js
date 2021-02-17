@@ -13,6 +13,5 @@ while(word.toLowerCase()!='stop'){
 }
 
 for (let i=0; i<list.length;i++){
-    console.log('You entered the following words:'); 
     console.log(list[i]);
 }
